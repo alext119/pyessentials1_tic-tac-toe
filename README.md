@@ -1,0 +1,2 @@
+Hi! If you're reading this, this is my first "official" program since getting back into programming.
+It's been some number of years since I've written lines of code like this. The Python Essentials 1 course offered by Cisco has several labs requiring some basic problem solving few lines of code. This one was quite fun, and allowed for me to dig into my memory banks for useful techniques and quality conventions. While still quite rudimentary (the course explicitly disallowed implementation of an AI algorithm), it was a fun project and I hope you like it!
